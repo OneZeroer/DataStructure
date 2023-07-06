@@ -96,6 +96,7 @@
  	printf("ǰ�壺%d\n",InsertPriorNode(p,s));
  	printf("%d\n",L->next->data);
  }
- int main(){
+ int main(void){
  	test();
+ 	return 0;
  }
